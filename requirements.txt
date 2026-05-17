@@ -1,0 +1,6 @@
+unitree-webrtc-connect>=2.1.0
+aiortc>=1.14.0
+aioice>=0.10.2
+opencv-python>=4.13.0
+pynput>=1.8.0
+numpy>=1.24.0
